@@ -7,5 +7,5 @@ Simplified Image Colorization from:
 Download the dataset (https://www.floydhub.com/emilwallner/datasets/colornet). Extract the dataset in the `data` folder.
 
 ##### Under Development
-- Beta_colorizer works perfectly
-- Full_colorizer doesn't work yet
+- Simple_colorizer works perfectly
+- Complex_colorizer doesn't work yet
