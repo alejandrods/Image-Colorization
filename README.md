@@ -1,4 +1,4 @@
-# Image_Colorization
+# Image Colorization
 Simplified Image Colorization from: 
     - https://github.com/baldassarreFe/deep-koalarization
     - https://github.com/emilwallner/Coloring-greyscale-images-in-Keras
